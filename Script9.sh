@@ -12,3 +12,4 @@ echo "a is less than b"
 fi
 echo "This is practice session"
 echo "This second change of practice session"
+echo "This is practice session to the gitbash using"
