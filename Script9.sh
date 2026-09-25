@@ -12,4 +12,6 @@ echo "a is less than b"
 fi
 echo "This is practice session"
 echo "This second change of practice session"
+echo "This is change to branch"
+echo "this is change merge in branch add"
 echo "This is practice session to the gitbash using"
